@@ -1,0 +1,39 @@
+/* Make page more spacious */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+  line-height: 1.6;
+}
+
+/* Header styling */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #004080;
+}
+
+/* Navbar customization */
+.navbar {
+  background-color: #003366;
+}
+
+.navbar a {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+/* Add padding around content */
+main {
+  padding: 2rem;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+}
+a:hover {
+  color: #003366;
+  text-decoration: underline;
+}
+
+
