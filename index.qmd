@@ -1,0 +1,340 @@
+---
+title: "MBA Portfolio Carlos A"
+---
+
+### **👤 About Me**
+
+MBA candidate with experience in data analysis, sales, and strategic management. Known as a creative problem solving person with strategic decision making, I’m passionate about integrating new technologies with human interaction to bring the best possible outcomes to business and their clients. Currently pursuing an MBA at University Canada West with a focus on business management and data analytics.
+
+### **🎓 Education**
+
+**Master of Business Administration (MBA)\
+** University Canada West – Vancouver, BC\
+2024-Current\
+Focus: Strategic Management, Project Leadership, Data Analytics
+
+**Projects**
+
+***AI in Cloud Computing Bootcamp***-  Spring 2025 at University Canada West 
+
+During this 6 week hands on experience bootcamp, Bootcamp, I learned how to use AWS services tools regarding AI practices to be able to recognize images, classify documents, turn text to speech, create chatbots and process large data sets to comply with data quality needs to analyze it. 
+
+***Strategic Consulting Capstone***-  Summer 2025 at University Canada West
+
+Work as a consultant for FreeFuse in order to help them improve their potential customer/partner selection by applying a profile analysis to current customers/partners to analyse their performance and consumption to establish key profile aspects that help them search for potential clients/partners with a high turnover probability.  
+
+**Bachelor's in Global Business (BGB)\
+** Instituto Technologico y de Estudios Superiores de Monterrrey – Mexico City\
+2019-2023\
+Concentration: International Business / Marketing / Conscious Business 
+
+**Projects**
+
+***Zapata Conscious Business Consulting***-  Spring 2022 at ITESM
+
+Integrate conscious business strategies for the different stakeholders that Grupo Zapata has, focusing on producing a good impact on people and the environment. 
+
+***Kidzania Business Strategy Consulting***-  Fall 2021 at ITESM
+
+Create a new business plan for Grupo Kidzania along with along with strategies to attract new clients and improve the overall experience of current users, focusing on the user experience and kids learning and development of skills. 
+
+### **💼 Professional Experience**
+
+**Data Analyst – Nielsen Media\
+** Remote \| 2024
+
+-   Analyzed marketing media campaigns for multinational companies\
+
+-   Open a new line of services for the TV and broadcast industry.\
+
+-   Provided insights that supported \$500k+ media budget decisions\
+
+**Automotive Industry Lead – Mexico Business\
+** Mexico City \| 2023 – 2024
+
+-   Improve client repurchase services by 5% for the automotive summit\
+
+-   Improve payment collection by 6% for the automotive industry clients\
+
+-   Close +300k USD in sponsorship packages for Mexico Business Summit
+
+### **🧠 Key Skills & Strengths**
+
+-   📊 **Data Analytics** (Excel, Tableau, Power BI, SQL)\
+
+-   🧭 **Strategic Planning** & Business Model Design**\
+    \
+    **
+
+-   🎯 **Project Management** (Agile, Gantt, Critical Path)**\
+    \
+    **
+
+-   🌎 **Multilingual:** English \| Spanish \| French\
+
+### **📇 Contact**
+
+-   📧 Email: caam0101\@hotmail.com\
+
+🌐 LinkedIn: www.linkedin.com/in/carlos-aguilar-3280491a3
+
+**References:**
+
+ChatGPT gave me the outline to follow along with the icons and styles.css format for each section of the portfolio.
+
+OpenAI. (2025). ChatGPT (Jul 22 version) \[Large language model\]. <https://chat.openai.com>
+
+**Appendix:**
+
+🧾 MBA Portfolio – One-Page Guide Use this as a template or structure for building a personal website, digital PDF, or LinkedIn-style portfolio. Focus on clarity, accessibility, and professional branding.
+
+👤 About Me / Bio What to include:
+
+2–4 sentence professional summary
+
+Your current MBA program and area of focus
+
+Key professional interests (e.g., finance, marketing, tech strategy)
+
+One line highlighting a career goal or personal value
+
+Example:
+
+I’m an MBA candidate at \[Your University\], passionate about leveraging data and strategy to drive innovation in the tech sector. With a background in \[your past experience\], I aim to bridge business insight with digital transformation.
+
+🎓 Education List your degrees in reverse chronological order:
+
+Master of Business Administration (MBA) University Name – City, Country Expected Graduation: \[Month, Year\]
+
+Relevant courses or concentrations
+
+Honors or scholarships (optional)
+
+Previous Degree(s): Degree Title – University Name – Year
+
+Optional: GPA (if strong), awards, or projects
+
+💼 Professional Experience / Highlights Include 2–4 key roles or projects. For each, mention:
+
+Title and company
+
+Dates (month/year)
+
+2–3 bullet points focused on impact, skills used, or results
+
+Optional Sections:
+
+Internships
+
+Consulting projects
+
+Volunteer leadership roles
+
+Example: Marketing Intern – ABC Corporation May 2024 – Aug 2024
+
+Developed a digital campaign strategy projected to increase traffic by 25%
+
+Conducted competitor analysis and presented findings to senior leadership
+
+🧠 Key Skills & Strengths Group your skills into categories for easier reading:
+
+Business Tools: Excel, Tableau, Power BI, SAP
+
+Technical: SQL, Python (basic), Financial Modeling
+
+Soft Skills: Leadership, Communication, Critical Thinking
+
+Languages: English (fluent), Spanish (native), French (conversational)
+
+📇 Contact & Links (Optional but recommended) Provide clear ways to reach you and link to your online presence:
+
+📧 Email: your.name\@email.com
+
+🔗 LinkedIn: linkedin.com/in/yourprofile
+
+🌐 Personal Website or Portfolio (if available)
+
+📍 Location: City, Country (optional)
+
+🖼 Visual/Design Tips Whether you're creating a webpage, resume-style PDF, or Notion site:
+
+Headshot or Logo (Optional): Top left or top right corner
+
+Layout: 2-column split for Skills + Education or Experience + Bio
+
+Colors: Use professional tones (navy, gray, white, earth tones)
+
+Fonts: Clean, easy-to-read (e.g., Lato, Calibri, Roboto)
+
+Spacing: Use whitespace to avoid clutter and guide the reader’s eye🧾 **MBA Portfolio – One-Page Guide**
+
+Use this as a **template or structure** for building a personal website, digital PDF, or LinkedIn-style portfolio. Focus on **clarity, accessibility, and professional branding**.
+
+### 👤 **About Me / Bio**
+
+**What to include:**
+
+-   
+
+-   2–4 sentence professional summary
+
+-   
+
+-   Your current MBA program and area of focus
+
+-   
+
+-   Key professional interests (e.g., finance, marketing, tech strategy)
+
+-   
+
+-   One line highlighting a career goal or personal value
+
+-   
+
+**Example:**
+
+> I’m an MBA candidate at \[Your University\], passionate about leveraging data and strategy to drive innovation in the tech sector. With a background in \[your past experience\], I aim to bridge business insight with digital transformation.
+
+### 🎓 **Education**
+
+**List your degrees in reverse chronological order:**
+
+**Master of Business Administration (MBA)**\
+*University Name – City, Country*\
+Expected Graduation: \[Month, Year\]
+
+-   
+
+-   Relevant courses or concentrations
+
+-   
+
+-   Honors or scholarships (optional)
+
+-   
+
+**Previous Degree(s):**\
+*Degree Title – University Name – Year*
+
+-   
+
+-   Optional: GPA (if strong), awards, or projects
+
+-   
+
+### 💼 **Professional Experience / Highlights**
+
+**Include 2–4 key roles or projects. For each, mention:**
+
+-   
+
+-   Title and company
+
+-   
+
+-   Dates (month/year)
+
+-   
+
+-   2–3 bullet points focused on **impact**, **skills used**, or **results**
+
+-   
+
+**Optional Sections:**
+
+-   
+
+-   Internships
+
+-   
+
+-   Consulting projects
+
+-   
+
+-   Volunteer leadership roles
+
+-   
+
+**Example:**\
+**Marketing Intern – ABC Corporation**\
+*May 2024 – Aug 2024*
+
+-   
+
+-   Developed a digital campaign strategy projected to increase traffic by 25%
+
+-   
+
+-   Conducted competitor analysis and presented findings to senior leadership
+
+-   
+
+### 🧠 **Key Skills & Strengths**
+
+Group your skills into categories for easier reading:
+
+-   
+
+-   **Business Tools:** Excel, Tableau, Power BI, SAP
+
+-   
+
+-   **Technical:** SQL, Python (basic), Financial Modeling
+
+-   
+
+-   **Soft Skills:** Leadership, Communication, Critical Thinking
+
+-   
+
+-   **Languages:** English (fluent), Spanish (native), French (conversational)
+
+-   
+
+### 📇 **Contact & Links** *(Optional but recommended)*
+
+Provide **clear ways to reach you** and link to your online presence:
+
+-   
+
+-   📧 Email: your.name\@email.com
+
+-   
+
+-   🔗 LinkedIn: linkedin.com/in/yourprofile
+
+-   
+
+-   🌐 Personal Website or Portfolio (if available)
+
+-   
+
+-   📍 Location: City, Country (optional)
+
+-   
+
+### 🖼 **Visual/Design Tips**
+
+Whether you're creating a webpage, resume-style PDF, or Notion site:
+
+-   
+
+-   **Headshot or Logo (Optional):** Top left or top right corner
+
+-   
+
+-   **Layout:** 2-column split for Skills + Education or Experience + Bio
+
+-   
+
+-   **Colors:** Use professional tones (navy, gray, white, earth tones)
+
+-   
+
+-   **Fonts:** Clean, easy-to-read (e.g., Lato, Calibri, Roboto)
+
+-   
+
+-   **Spacing:** Use whitespace to avoid clutter and guide the reader’s eye
