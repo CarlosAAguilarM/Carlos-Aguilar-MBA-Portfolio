@@ -4,11 +4,6 @@ project:
 
 website:
   title: "MBA Portfolio – Carlos A"
-  navbar:
-    background: dark
-    left:
-      - href: index.qmd
-        text: Home
 
 format:
   html:
