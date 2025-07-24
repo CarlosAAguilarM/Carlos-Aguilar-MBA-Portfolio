@@ -17,11 +17,11 @@ Focus: Strategic Management, Project Leadership, Data Analytics
 
 **Projects**
 
-**AI in Cloud Computing Bootcamp**-  Spring 2025 at University Canada West 
+***AI in Cloud Computing Bootcamp***-  Spring 2025 at University Canada West 
 
 During this 6 week hands on experience bootcamp, Bootcamp, I learned how to use AWS services tools regarding AI practices to be able to recognize images, classify documents, turn text to speech, create chatbots and process large data sets to comply with data quality needs to analyze it. 
 
-**Strategic Consulting Capstone**-  Summer 2025 at University Canada West
+***Strategic Consulting Capstone***-  Summer 2025 at University Canada West
 
 Work as a consultant for FreeFuse in order to help them improve their potential customer/partner selection by applying a profile analysis to current customers/partners to analyse their performance and consumption to establish key profile aspects that help them search for potential clients/partners with a high turnover probability.  
 
@@ -32,15 +32,15 @@ Concentration: International Business / Marketing / Conscious Business 
 
 **Projects**
 
-**Zapata Conscious Business Consulting**-  Spring 2022 at ITESM
+***Zapata Conscious Business Consulting***-  Spring 2022 at ITESM
 
 Integrate conscious business strategies for the different stakeholders that Grupo Zapata has, focusing on producing a good impact on people and the environment. 
 
-**Kidsatnia Business Strategy Consulting**-  Fall 2021 at ITESM
+***Kidzania Business Strategy Consulting***-  Fall 2021 at ITESM
 
 Create a new business plan for Grupo Kidzania along with along with strategies to attract new clients and improve the overall experience of current users, focusing on the user experience and kids learning and development of skills. 
 
-### **💼 Professional Experience** 
+### **💼 Professional Experience**
 
 **Data Analyst – Nielsen Media\
 ** Remote \| 2024
@@ -54,9 +54,9 @@ Create a new business plan for Grupo Kidzania along with along with strategies t
 **Automotive Industry Lead – Mexico Business\
 ** Mexico City \| 2023 – 2024
 
--   Improve client repurchase services by 5% for the automotive summit \
+-   Improve client repurchase services by 5% for the automotive summit\
 
--   Improve payment collection by 6% for the automotive industry clients \
+-   Improve payment collection by 6% for the automotive industry clients\
 
 -   Close +300k USD in sponsorship packages for Mexico Business Summit
 
@@ -178,34 +178,24 @@ Use this as a **template or structure** for building a personal website, digital
 
 -   
 
--   
-
-    2–4 sentence professional summary
+-   2–4 sentence professional summary
 
 -   
 
--   
-
-    Your current MBA program and area of focus
+-   Your current MBA program and area of focus
 
 -   
 
--   
-
-    Key professional interests (e.g., finance, marketing, tech strategy)
+-   Key professional interests (e.g., finance, marketing, tech strategy)
 
 -   
 
--   
-
-    One line highlighting a career goal or personal value
+-   One line highlighting a career goal or personal value
 
 -   
 
 **Example:**
 
-> 
->
 > I’m an MBA candidate at \[Your University\], passionate about leveraging data and strategy to drive innovation in the tech sector. With a background in \[your past experience\], I aim to bridge business insight with digital transformation.
 
 ### 🎓 **Education**
@@ -218,15 +208,11 @@ Expected Graduation: \[Month, Year\]
 
 -   
 
--   
-
-    Relevant courses or concentrations
+-   Relevant courses or concentrations
 
 -   
 
--   
-
-    Honors or scholarships (optional)
+-   Honors or scholarships (optional)
 
 -   
 
@@ -235,9 +221,7 @@ Expected Graduation: \[Month, Year\]
 
 -   
 
--   
-
-    Optional: GPA (if strong), awards, or projects
+-   Optional: GPA (if strong), awards, or projects
 
 -   
 
@@ -247,21 +231,15 @@ Expected Graduation: \[Month, Year\]
 
 -   
 
--   
-
-    Title and company
+-   Title and company
 
 -   
 
--   
-
-    Dates (month/year)
+-   Dates (month/year)
 
 -   
 
--   
-
-    2–3 bullet points focused on **impact**, **skills used**, or **results**
+-   2–3 bullet points focused on **impact**, **skills used**, or **results**
 
 -   
 
@@ -269,21 +247,15 @@ Expected Graduation: \[Month, Year\]
 
 -   
 
--   
-
-    Internships
+-   Internships
 
 -   
 
--   
-
-    Consulting projects
+-   Consulting projects
 
 -   
 
--   
-
-    Volunteer leadership roles
+-   Volunteer leadership roles
 
 -   
 
@@ -293,15 +265,11 @@ Expected Graduation: \[Month, Year\]
 
 -   
 
--   
-
-    Developed a digital campaign strategy projected to increase traffic by 25%
+-   Developed a digital campaign strategy projected to increase traffic by 25%
 
 -   
 
--   
-
-    Conducted competitor analysis and presented findings to senior leadership
+-   Conducted competitor analysis and presented findings to senior leadership
 
 -   
 
@@ -311,27 +279,19 @@ Group your skills into categories for easier reading:
 
 -   
 
--   
-
-    **Business Tools:** Excel, Tableau, Power BI, SAP
+-   **Business Tools:** Excel, Tableau, Power BI, SAP
 
 -   
 
--   
-
-    **Technical:** SQL, Python (basic), Financial Modeling
+-   **Technical:** SQL, Python (basic), Financial Modeling
 
 -   
 
--   
-
-    **Soft Skills:** Leadership, Communication, Critical Thinking
+-   **Soft Skills:** Leadership, Communication, Critical Thinking
 
 -   
 
--   
-
-    **Languages:** English (fluent), Spanish (native), French (conversational)
+-   **Languages:** English (fluent), Spanish (native), French (conversational)
 
 -   
 
@@ -341,27 +301,19 @@ Provide **clear ways to reach you** and link to your online presence:
 
 -   
 
--   
-
-    📧 Email: your.name\@email.com
+-   📧 Email: your.name\@email.com
 
 -   
 
--   
-
-    🔗 LinkedIn: linkedin.com/in/yourprofile
+-   🔗 LinkedIn: linkedin.com/in/yourprofile
 
 -   
 
--   
-
-    🌐 Personal Website or Portfolio (if available)
+-   🌐 Personal Website or Portfolio (if available)
 
 -   
 
--   
-
-    📍 Location: City, Country (optional)
+-   📍 Location: City, Country (optional)
 
 -   
 
@@ -371,30 +323,20 @@ Whether you're creating a webpage, resume-style PDF, or Notion site:
 
 -   
 
--   
-
-    **Headshot or Logo (Optional):** Top left or top right corner
+-   **Headshot or Logo (Optional):** Top left or top right corner
 
 -   
 
--   
-
-    **Layout:** 2-column split for Skills + Education or Experience + Bio
+-   **Layout:** 2-column split for Skills + Education or Experience + Bio
 
 -   
 
--   
-
-    **Colors:** Use professional tones (navy, gray, white, earth tones)
+-   **Colors:** Use professional tones (navy, gray, white, earth tones)
 
 -   
 
--   
-
-    **Fonts:** Clean, easy-to-read (e.g., Lato, Calibri, Roboto)
+-   **Fonts:** Clean, easy-to-read (e.g., Lato, Calibri, Roboto)
 
 -   
 
--   
-
-    **Spacing:** Use whitespace to avoid clutter and guide the reader’s eye
+-   **Spacing:** Use whitespace to avoid clutter and guide the reader’s eye
